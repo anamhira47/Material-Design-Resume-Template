@@ -1,4 +1,3 @@
-
   <!DOCTYPE html>
   <html>
     <head>
@@ -31,7 +30,7 @@
           <div class="card hoverable blue-grey darken-1">
             <div class="card-content white-text">
               <span class="card-title">Thank You For Submitting</span>
-              <p>Thank You For Submitting, you will be contact shortly.</p>
+              <p>Thanks for sharing your opinion, you will be contact shortly.</p>
             </div>
             <div class="card-action">
               <a  href="">Back To Website</a>
