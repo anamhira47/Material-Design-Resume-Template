@@ -1,0 +1,69 @@
+#header-top {
+  background: #1e88e5;
+}
+#header-bottom {
+  background-color: #2196f3;
+}
+#sticky-nav {
+  background-color: #2196f3;
+}
+#skills .skill-line {
+  background: #2196f3;
+}
+#skills .skill-line .skill-bar .progress {
+  background-color: #4783c2;
+}
+#skills .skill-line .skill-bar .determinate {
+  background-color: #ffffff;
+}
+.cd-timeline-img {
+  background-color: #2196f3;
+}
+.cd-timeline-content span {
+  color: #2196f3;
+}
+.market-place ul li a {
+  color: #2196f3;
+}
+#pricing-table .pricing .plan .thumbnail .btn {
+  background-color: #2196f3;
+}
+input[type=text]:focus:not([readonly]),
+input[type=password]:focus:not([readonly]),
+input[type=email]:focus:not([readonly]),
+input[type=url]:focus:not([readonly]),
+input[type=time]:focus:not([readonly]),
+input[type=date]:focus:not([readonly]),
+input[type=datetime-local]:focus:not([readonly]),
+input[type=tel]:focus:not([readonly]),
+input[type=number]:focus:not([readonly]),
+input[type=search]:focus:not([readonly]),
+textarea.materialize-textarea:focus:not([readonly]) {
+  border-bottom: 1px solid #2196f3;
+}
+input[type=text]:focus:not([readonly]) + label,
+input[type=password]:focus:not([readonly]) + label,
+input[type=email]:focus:not([readonly]) + label,
+input[type=url]:focus:not([readonly]) + label,
+input[type=time]:focus:not([readonly]) + label,
+input[type=date]:focus:not([readonly]) + label,
+input[type=datetime-local]:focus:not([readonly]) + label,
+input[type=tel]:focus:not([readonly]) + label,
+input[type=number]:focus:not([readonly]) + label,
+input[type=search]:focus:not([readonly]) + label,
+textarea.materialize-textarea:focus:not([readonly]) + label {
+  color: #2196f3;
+}
+.waves-me:focus {
+  background-color: #2196f3;
+}
+.btn {
+  background-color: #2196f3;
+}
+.btn:hover,
+.btn:focus {
+  background-color: #2196f3;
+}
+.interests ul li .fa {
+  color: #2196f3;
+}
