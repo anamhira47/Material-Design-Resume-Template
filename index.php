@@ -313,6 +313,7 @@ Add your own work experiances to the HTML file
       
         <!-- =========================================
                 CONTACT  
+    Make sure to go into form.php to set up to phpmailer config 
         ==========================================-->
         <section id="contact-form">
             <div class="container">
