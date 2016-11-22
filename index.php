@@ -54,7 +54,7 @@
     <body>
         <!-- =========================================
                            HEADER TOP   
-
+						If you want to get rid of any sections in the future just get rice of the top comment to the end comment.
 					To use the template just change the information to correlate with your personal information and add the approprate links.
 				You can change the colour by getting rid of the css files for the colours that you dont want and get rid of the activesylesheet css and js files.
         ==========================================-->
@@ -148,7 +148,7 @@ Add your own percentages or change the skills that you would like to display
                                     <i class="fa fa-calendar-o"></i>
                                 </div>
                                 <div class="skill-bar col m10 wow fadeIn a1"  data-wow-delay="0.1s">
-                                    <h3>Professional Skills </h3>
+                                 <!--  Add your proffesional skills here  -->   <h3>Professional Skills </h3>
                                     <span>PHP</span>                                    
                                     <div class="progress">
                                         <div class="determinate"> 25% </div>
@@ -175,7 +175,7 @@ Add your own percentages or change the skills that you would like to display
                                     <i class="fa fa-calendar-o"></i>
                                 </div>
                                 <div class="skill-bar col m10 wow fadeIn a2" data-wow-delay="0.2s">
-                                    <h3>Personal Skills </h3>
+                                 <!--  Add you personal skills here  -->   <h3>Personal Skills </h3>
                                     <span>Communication</span>                                    
                                     <div class="progress">
                                         <div class="determinate"> 70% </div>
@@ -212,7 +212,7 @@ Add your own work experiances and your own times etc.
             <div class="container">
                 <div class="row">
                     <div class="section-title">
-                        <h2> <i class="fa fa-suitcase"> </i>Work Experience</h2>
+                      <!-- Add your work experience here.   -->  <h2> <i class="fa fa-suitcase"> </i>Work Experience</h2>
                     </div>
                     <div id="cd-timeline" class="cd-container">
                 		<div class="cd-timeline-block wow fadeIn a2" data-wow-delay="0.2s">
@@ -266,7 +266,7 @@ Add your own work experiances to the HTML file
             <div class="container">
                 <div class="row">
                     <div class="section-title wow fadeIn a1" data-wow-delay="0.1s">
-                        <h2> <i class="fa fa-graduation-cap"></i>Education</h2>
+                     <!--  Add your education here  -->   <h2> <i class="fa fa-graduation-cap"></i>Education</h2>
                     </div>
                     
                     <div class="cd-container" id="ed-timeline">
