@@ -54,6 +54,9 @@
     <body>
         <!-- =========================================
                            HEADER TOP   
+
+					To use the template just change the information to correlate with your personal information and add the approprate links.
+				You can change the colour by getting rid of the css files for the colours that you dont want and get rid of the activesylesheet css and js files.
         ==========================================-->
         <header id="header-top"> <!--Start: "Header Area"-->
             <div class="container">
