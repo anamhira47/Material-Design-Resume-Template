@@ -1,6 +1,7 @@
 <?php
 /**
  * This is the standard config file for sending mail through Gmail. If you would like to change the config File visit the PHPMailer documentation for further example or uses for php. There are a plethora of other ways to use this.
+
  */
 $_POST['name'] = $name;
 $_POST['email'] = $email;
