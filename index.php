@@ -117,7 +117,7 @@
                     <div class="intro z-depth-1 col m12">
                         <div class="col m12 s12">
                             <div class="profile-pic wow fadeIn a1" data-wow-delay="0.1s" >
-                                <img src="assets/images/proflpic.png" alt="">
+                                <img src="assets/images/photo.jpg" alt="">
                             </div>
                         </div>
                         <div class="col m12 s12 co-centered wow fadeIn a2" data-wow-delay="0.2s">
