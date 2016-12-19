@@ -27,7 +27,7 @@
 *.sql
 *.sqlite
 # Vendor Files #
-*.js
+.js
 *.css
 
 # OS generated files #
