@@ -7,7 +7,9 @@
     <head>
         <meta charset="utf-8">
 
-        <!-- TITLE OF SITE -->
+        <!-- TITLE OF SITE
+        Deploy this material Design HTML template to your website
+        -->
         <title> Material Design Resume</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="Materialize portfolio one page template, Using for personal website." />
